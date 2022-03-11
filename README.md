@@ -43,6 +43,11 @@ create project
 django-admin startproject [project-name]
 ```
 
+first migration
+
+```
+python manage.py migrate
+```
 
 create superuser
 
